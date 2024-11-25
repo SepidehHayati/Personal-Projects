@@ -1,6 +1,6 @@
 # Personal Projects
  
-Here, I share my ongoing data analysis and Python programming projects, ranging from beginner to advanced levels. The projects are a combination of Python programming, SQL, Pandas, and other data analysis tools, to improve my skills and knowledge in these areas. As I continue to learn and grow, I’ll be adding new projects, so feel free to check back for updates.
+Here, I share my ongoing data analysis project using Python programming, SQL, and Machine Learning projects, ranging from beginner to advanced levels. The projects are a combination of Python programming, SQL, Pandas, and other data analysis tools, to improve my skills and knowledge in these areas. As I continue to learn and grow, I’ll be adding new projects, so feel free to check back for updates.
 
 ## Current Projects (Beginner Level)
 
